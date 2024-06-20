@@ -1,0 +1,1 @@
+Lighting Comfort (0-100%),Brightness level (lumens),Color temperature (Kelvin),Schedule (hours),Motion sensitivity (%),Ambient light sensitivity (%)

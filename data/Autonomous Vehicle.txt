@@ -1,0 +1,1 @@
+Navigation Accuracy (0-100%),Sensor fusion parameters,Lidar range settings,Camera resolution,GPS accuracy settings,Speed limits (km/h),Obstacle detection sensitivity,Path planning algorithm parameters,Vehicle dynamics control settings,Battery management system settings

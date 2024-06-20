@@ -1,0 +1,1 @@
+Energy Efficiency (0-100%),Motor power settings (kW),Regenerative braking strength (%),Tire pressure (PSI),Aerodynamic settings,Battery management system settings,Weight distribution adjustments (front/rear),Suspension settings (stiffness),Climate control efficiency settings

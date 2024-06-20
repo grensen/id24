@@ -1,0 +1,1 @@
+Image Quality (0-100%),Shutter speed (seconds),ISO sensitivity,Aperture size (f-stop),White balance (Kelvin),Exposure compensation (EV)

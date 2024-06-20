@@ -1,0 +1,1 @@
+Wash Quality (0-100%),Water temperature (degrees Celsius),Spin speed (RPM),Detergent dosage (ml),Cycle duration (minutes),Load size (kg)

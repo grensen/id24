@@ -1,0 +1,1 @@
+Print Quality (0-100%),Layer height (microns),Print speed (mm/s),Extruder temperature (degrees Celsius),Bed temperature (degrees Celsius),Infill density (%)

@@ -1,0 +1,1 @@
+Energy Savings (0-100%),Temperature set point (degrees Celsius/Fahrenheit),Schedule timing (hours)
