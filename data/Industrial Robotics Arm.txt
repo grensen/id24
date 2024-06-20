@@ -1,0 +1,1 @@
+Operational Precision (0-100%),Joint torque limits,Speed settings for each axis,Gripper pressure sensitivity,Path planning algorithm parameters,Vision system calibration,Collision detection sensitivity,End-effector configuration,Control loop frequency (Hz)

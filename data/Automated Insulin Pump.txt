@@ -1,0 +1,1 @@
+Blood Glucose Control Accuracy (0-100%),Insulin delivery rate (units per hour),Blood glucose monitoring frequency (minutes),Correction factor sensitivity (mg/dL per unit of insulin),Basal rate profiles (time of day settings)

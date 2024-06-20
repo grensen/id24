@@ -1,0 +1,1 @@
+Battery Life Efficiency (0-100%),Pedal assist level,Motor power output (watts),Tire pressure (PSI),Gear ratio settings,Regenerative braking level

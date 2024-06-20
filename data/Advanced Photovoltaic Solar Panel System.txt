@@ -1,0 +1,1 @@
+Energy Conversion Efficiency (0-100%),Angle of inclination,Tracking system speed,Panel type (monocrystalline, polycrystalline, thin-film),Inverter settings,Cooling system parameters,Dust and debris cleaning schedule,Bypass diode configuration,MPPT (Maximum Power Point Tracking) settings

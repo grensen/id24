@@ -1,0 +1,1 @@
+Search and Rescue Efficiency (0-100%),Mobility settings (terrain adaptability),Sensor suite configuration (thermal, LiDAR, camera),Battery management (usage optimization),Communication protocols (signal strength, frequency),AI pathfinding algorithm parameters,Object recognition sensitivity,Autonomous decision-making settings,Redundancy and fail-safe measures

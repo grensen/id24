@@ -1,0 +1,1 @@
+Crop Health Monitoring Accuracy (0-100%),Flight path pattern,Camera resolution,Multispectral sensor calibration,Altitude (meters),Data processing algorithm settings,Battery usage optimization

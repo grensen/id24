@@ -1,0 +1,1 @@
+Water Conservation Efficiency (0-100%),Soil moisture threshold (%),Irrigation duration (minutes),Irrigation frequency (days per week),Rain delay sensitivity (mm of rain)

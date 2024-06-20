@@ -1,0 +1,1 @@
+Energy Efficiency (0-100%),Temperature settings for different compartments,Door open alarm sensitivity,Defrost cycle frequency,Fan speed settings,Humidity control level

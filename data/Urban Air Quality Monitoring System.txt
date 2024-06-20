@@ -1,0 +1,1 @@
+Pollution Detection Accuracy (0-100%),Sensor placement density (units per square km),Sensor sensitivity to different pollutants (PM2.5, NO2, CO2),Data transmission intervals (minutes),Calibration frequency,Data processing algorithms (AI model parameters),Power supply management (solar, battery),Integration with weather data,Alert threshold settings
